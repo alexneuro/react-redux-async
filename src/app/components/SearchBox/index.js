@@ -24,7 +24,7 @@ class SearchInput extends React.Component {
     render() {
         return (
             <div>
-                <p>Введи поисковый запрос и нажми Enter</p>
+                <p className={styles.text}>Введи поисковый запрос и нажми Enter</p>
                 <input
                     className={styles.searchInput}
                     value={this.state.input}
