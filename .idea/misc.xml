@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="JSX" />
+  </component>
+  <component name="LessManager">
+    <option name="lessProfileMap">
+      <map>
+        <entry key="1">
+          <value>
+            <LessProfile>
+              <option name="compressOutput" value="true" />
+              <option name="cssDirectories">
+                <list>
+                  <CssDirectory>
+                    <option name="path" value="C:\OSPanel\domains\academi.verstka\css" />
+                  </CssDirectory>
+                </list>
+              </option>
+              <option name="id" value="1" />
+              <option name="lessDirPath" value="C:\OSPanel\domains\academi.verstka\css" />
+              <option name="name" value="kaluzhichi" />
+            </LessProfile>
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <LessProfile>
+              <option name="compressOutput" value="true" />
+              <option name="cssDirectories">
+                <list>
+                  <CssDirectory>
+                    <option name="path" value="C:\OSPanel\domains\kaluzhichi.rr\wp-content\themes\mytheme\assets\css" />
+                  </CssDirectory>
+                </list>
+              </option>
+              <option name="id" value="2" />
+              <option name="lessDirPath" value="C:\OSPanel\domains\kaluzhichi.rr\wp-content\themes\mytheme\assets\less" />
+              <option name="name" value="kaluzhichi-wp" />
+            </LessProfile>
+          </value>
+        </entry>
+        <entry key="3">
+          <value>
+            <LessProfile>
+              <option name="compressOutput" value="true" />
+              <option name="cssDirectories">
+                <list>
+                  <CssDirectory>
+                    <option name="path" value="C:\OSPanel\domains\smart-bag.ver\css" />
+                  </CssDirectory>
+                </list>
+              </option>
+              <option name="id" value="3" />
+              <option name="lessDirPath" value="C:\OSPanel\domains\smart-bag.ver\less" />
+              <option name="name" value="smartbag" />
+            </LessProfile>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="deleteCssFiles" value="false" />
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
