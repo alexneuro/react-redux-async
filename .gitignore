@@ -23,3 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 /.idea/inspectionProfiles/Project_Default.xml
 /.idea/vcs.xml
+/async-req.iml
+/.idea/
